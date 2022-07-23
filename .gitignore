@@ -1,0 +1,11 @@
+# FILES
+
+*.pyc
+*.swp
+*.log
+noROS*.py
+*.mp4
+
+# DIRS
+**/__pycache__/
+**/bruno
